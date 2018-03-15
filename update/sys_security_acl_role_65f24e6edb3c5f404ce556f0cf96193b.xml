@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-15 09:09:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>65f24e6edb3c5f404ce556f0cf96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_90622_mdsl_integ.mdsl_integrtaion</sys_name>
+        <sys_package display_value="MDSL Integrations" source="x_90622_mdsl_integ">1488baabdb6bc3004ce556f0cf961964</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MDSL Integrations">1488baabdb6bc3004ce556f0cf961964</sys_scope>
+        <sys_security_acl display_value="x_90622_mdsl_integ_asset_web_service">64f20aaedb3c5f404ce556f0cf961902</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_65f24e6edb3c5f404ce556f0cf96193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 09:09:20</sys_updated_on>
+        <sys_user_role display_value="x_90622_mdsl_integ.mdsl_integrtaion" name="x_90622_mdsl_integ.mdsl_integrtaion">00c4e000dbf307004ce556f0cf961970</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="no_attachment=true" extends="v_ws_creator" label="Edit Web Service" max_length="40" name="v_ws_editor" type="collection">
+        <element default="support@mdsl.com" display="true" label="MDSL Support Contact" max_length="100" name="x_90622_mdsl_integ_mdsl_support_address" read_only="true" type="url"/>
+    </element>
+</database>

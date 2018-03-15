@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="MDSL Support" section_id="b5ceb97cdb08d7004ce556f0cf9619af" sys_domain="global" table="v_ws_editor" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_90622_mdsl_integ_mdsl_support_address</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 15:34:21</sys_created_on>
+            <sys_id>31ceb97cdb08d7004ce556f0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MDSL Support" display_value="MDSL Support" name="v_ws_editor" sys_domain="global" view="Default view">b5ceb97cdb08d7004ce556f0cf9619af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 15:34:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 15:34:21</sys_created_on>
+            <sys_id>b1ceb97cdb08d7004ce556f0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="MDSL Support" display_value="MDSL Support" name="v_ws_editor" sys_domain="global" view="Default view">b5ceb97cdb08d7004ce556f0cf9619af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 15:34:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>MDSL Support</caption>
+            <header>false</header>
+            <name>v_ws_editor</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-31 15:34:20</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5ceb97cdb08d7004ce556f0cf9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MDSL Support</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MDSL Integrations" source="x_90622_mdsl_integ">1488baabdb6bc3004ce556f0cf961964</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="MDSL Integrations">1488baabdb6bc3004ce556f0cf961964</sys_scope>
+            <sys_update_name>sys_ui_section_b5ceb97cdb08d7004ce556f0cf9619af</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-31 15:34:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
