@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_90622_mdsl_integ_mdsl_support.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<img src="mdsl-logo2.png" width="100" height="50"/>
+	<span><p>Contact our support team at: </p><a href="mailto:support@mdsl.com?Subject=ServiceNow HelpDesk" target="_top">support@mdsl.com</a></span>
+</j:jelly>]]></html>
+        <name>mdsl_support</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-16 08:39:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ef95c77edbb49f404ce556f0cf9619b8</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>mdsl_support</sys_name>
+        <sys_package display_value="MDSL Integrations" source="x_90622_mdsl_integ">1488baabdb6bc3004ce556f0cf961964</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MDSL Integrations">1488baabdb6bc3004ce556f0cf961964</sys_scope>
+        <sys_update_name>sys_ui_page_ef95c77edbb49f404ce556f0cf9619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-16 10:06:33</sys_updated_on>
+    </sys_ui_page>
+</record_update>

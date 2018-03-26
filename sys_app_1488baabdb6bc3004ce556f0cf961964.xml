@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-15 12:18:27</sys_created_on>
         <sys_id>1488baabdb6bc3004ce556f0cf961964</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-15 09:31:24</sys_updated_on>
+        <sys_updated_on>2018-03-26 08:21:06</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_90622_mdsl_integ.mdsl_integrtaion" name="x_90622_mdsl_integ.mdsl_integrtaion">00c4e000dbf307004ce556f0cf961970</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.5.0</version>
+        <version>1.6.0</version>
     </sys_app>
 </record_update>
